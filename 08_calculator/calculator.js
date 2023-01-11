@@ -32,7 +32,7 @@ const power = function (number, power) {
   return result
 };
 
-const factorial = function () {
+const factorial = function (number) {
 
 };
 
