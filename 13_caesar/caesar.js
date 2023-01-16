@@ -18,38 +18,6 @@ const caesar = function (str, num) {
         }
         return asciiArr.join('');    // add characters together
     }
-    
-
-
-
-// 77, 106, 113, 113, 116, 49, 37, 92, 116, 119, 113, 105, 38
-// [77, 106, 113, 113, 116, 49, 37, 92, 116, 119, 113, 105, 38]
-
-
-
-
-
-
-
-
-
-
-
-
-    // let alphabet = "";
-    // for (let i = 65; i <= 90; i++) {
-    //     alphabet += String.fromCharCode(i);
-
-    // return alphabet.split('');}
-
-
-
-
-    // for (str = 65 + num; str <= 90; i++) {
-    //     let newString = str
-
-    //     console.log(newString);
-    // }
     ;
 
 // Do not edit below this line
