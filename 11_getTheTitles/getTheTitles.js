@@ -1,7 +1,5 @@
 const getTheTitles = function (arr) {
-    let filtered = arr.map(books => (books.title))
-    return filtered
-
+    return arr.map(books => (books.title))
 }
 
 
